@@ -1,4 +1,3 @@
-```markdown
 # Generating 3D Models from 2D Images
 
 This project proposes an innovative approach to automatically generate accurate and detailed 3D models from 2D images, leveraging a structure masking network and point cloud method. The ability to transform 2D images into high-fidelity 3D representations has significant implications across various fields, including computer vision, graphics, and robotics.
@@ -38,4 +37,4 @@ While the project demonstrates promising results, there are certain limitations 
 ## Conclusion
 
 This project represents a significant step forward in the field of 3D model generation from 2D images, paving the way for innovative applications in computer vision and beyond. By addressing the limitations and exploring future directions, the project aims to advance the state-of-the-art and unlock new possibilities in 3D content creation and visualization.
-```
+
