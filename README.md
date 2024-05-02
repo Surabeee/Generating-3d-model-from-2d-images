@@ -16,6 +16,9 @@ The project's approach involves several key components:
 
 3. **3D Model Reconstruction**: The point clouds are fused and densified to produce accurate and detailed 3D models of the objects depicted in the input images.
 
+   ![image](https://github.com/Surabeee/Generating-3d-model-from-2d-images/assets/100294331/dc3d28eb-e28e-422c-a5bb-8261f737b486)
+
+
 ## Evaluation
 
 The project employs a custom evaluation metric that measures the average 3D test error across multiple categories, providing insights into the accuracy and fidelity of the generated models. Comparative analyses against baseline methods demonstrate superior performance in terms of shape similarity and point cloud density.
