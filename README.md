@@ -30,6 +30,9 @@ The project utilizes the ShapeNet Core dataset, a subset of the comprehensive Sh
 
 The generated 3D models exhibit high levels of detail and structural integrity, accurately representing the shapes and features of the objects in the input images. The models maintain consistent density distribution across different viewpoints and closely resemble the real-world objects they represent.
 
+![image](https://github.com/Surabeee/Generating-3d-model-from-2d-images/assets/100294331/0309ae37-68fc-40eb-b986-aa6f1439cba0)
+
+
 ## Limitations and Future Work
 
 While the project demonstrates promising results, there are certain limitations related to dataset biases, generalization to complex scenes, and computational requirements. Future work may involve enhancing generalization capabilities, exploring semantic understanding, and optimizing for real-time applications such as augmented reality and interactive content creation.
