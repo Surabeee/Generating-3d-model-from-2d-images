@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <title>Upload .mat File</title>
+</head>
+<body>
+    <h1><div class="header">
+        3D Modeling of 2D Images
+    </div></h1>
+    </h2><div class="header2">Upload .mat File</div></h2>
+    <div class="upload-form">
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <input type="file" name="file">
+            <label for="azimuth">Azimuth:</label>
+            <input type="number" name="azimuth" id="azimuth" value="45">
+            <label for="elevation">Elevation:</label>
+            <input type="number" name="elevation" id="elevation" value="30">
+            <button type="submit">Upload</button>
+        </form>
+    </div>
+</body>
+</html>
+
